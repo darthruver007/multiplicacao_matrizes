@@ -1,4 +1,4 @@
-# multiplicacao_matrizes_java
+multiplicacao_matrizes
 
 Aplicação Console desenvolvida em Java para realizar a leitura, o cálculo da multiplicação e a exibição de duas matrizes dinâmicas via terminal.
 
@@ -25,7 +25,7 @@ Aplicação Console desenvolvida em Java para realizar a leitura, o cálculo da 
 ## Estrutura do Projeto
 
 <pre>
-multiplicacao_matrizes_java/
+multiplicacao_matrizes/
 ├── Principal.java
 ├── .gitignore
 ├── LICENSE
